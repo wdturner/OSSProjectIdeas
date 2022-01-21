@@ -6,3 +6,5 @@ Zach McDaniel:
 Club Organizer/Calendar
 App to meet new people on campus virtually given the remote settings
 Something related to either music or food
+
+Otto Daniels: I think a vitual assistant represented as an animated on screen character like an advanced version of Bonzi Buddy without all the spyware would be neat. Also basically every navy strategy game that takes place after 1900 sucks. I almost want to try and create my own out of sheer spite. 
