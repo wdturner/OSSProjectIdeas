@@ -15,3 +15,5 @@ Something related to either music or food
 Otto Daniels: I think a vitual assistant represented as an animated on screen character like an advanced version of Bonzi Buddy without all the spyware would be neat. Also basically every navy strategy game that takes place after 1900 sucks. I almost want to try and create my own out of sheer spite. 
 
 Nick Lennox: I would like to evaluate and contribute to open-source Rocket League mods that were created by enthusiasts of the game with a background in software development. Their current open source SDK allows for plugins to be built on top of their mod which is appealing to me because I've been a long-time RL player.
+
+Jeffrey Chai: I would like to work on a project related to mental well-being such as a TO DO list with lots of user functionality and optional features.
