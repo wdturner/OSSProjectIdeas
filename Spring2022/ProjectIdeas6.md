@@ -1,6 +1,8 @@
 
 
 <<<<<<< HEAD
+
+
 #Ariana 
 An app that collects trial data and allows researchers to analyze it using both like pre offered dashboards but also they can add there own r code.
 
