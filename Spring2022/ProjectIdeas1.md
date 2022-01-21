@@ -1,1 +1,5 @@
-Something related to either music or food
+Project Ideas: 
+
+1) Travel
+2) Sports
+
