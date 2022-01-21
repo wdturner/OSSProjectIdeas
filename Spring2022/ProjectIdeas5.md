@@ -1,3 +1,3 @@
 ### Javier Portorreal
 
-I want to work on a project that revolves around web development. I will most likley choose to continue to work on Submitty.
+I want to work on a project that revolves around web development. I will most likley choose to continue to work on Submitty. Ive been contributing for almost 2 years now and I would like to wrap up a few features I have been working on. I graduate this semester and I think it would be the best use of my time. Joining a new project means I have to onboard all over again. I am currently working on a huge change to Late Days that is still a WIP so I plan to finish that.
