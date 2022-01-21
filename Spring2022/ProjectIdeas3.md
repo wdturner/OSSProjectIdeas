@@ -7,3 +7,5 @@ Another idea is an application for RPI students that uses the Google Maps API to
 Another idea is a graphics library for languages such as either c++ or Java. It would be an introductionary library similar to processing5.js. It would be for people who are just getting started in learning computer graphics and would allow them to build up their skills for graphic processing.
 
 One idea building off on the first one is to also incorporate data from the fitness app built into mobile phones through their APIs (if available) and then be able to maybe set custom goals or milestones that the custom dashboard could then track.
+
+Another idea is a lightweight CI/CL system for building and testing projects over a distributed network. This could be similar to the open source project Bazel, but lighter and more customizable.
