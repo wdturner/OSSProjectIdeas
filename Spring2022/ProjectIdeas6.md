@@ -4,7 +4,7 @@ files on other computer, etc.
 
 
 # Ryan
-A website tha can help book readers summurize characters and story till where they left off reading.
+A website that can help book readers summurize characters and story till where they left off reading.
 
 
 
