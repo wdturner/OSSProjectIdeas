@@ -9,6 +9,7 @@ Joey: An IOS game
 Nathan Whitney: People at RPI don't go outside enough and that's doubled by COVID-19.
 
 This new app is called bench of the day which uses random bench locations on campus as a "target" to get to and earn points.
+
 This mixes the "Pokemon Go" like chance randomly meet new people with with a funny way to explore campus.
 
 
