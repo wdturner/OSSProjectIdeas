@@ -14,8 +14,5 @@ A website that can help book readers summurize characters and story till where t
 # Eugene
 Unsure about specifics of the project. Looking to work together with teamates to finalize a project
 
-# Dylan
-A site where users can search for coding issues they have and upload any they find that are not there yet.
-
 # Alex
 Some kind of web or IoT project
