@@ -16,4 +16,6 @@ Otto Daniels: I think a vitual assistant represented as an animated on screen ch
 
 Nick Lennox: I would like to evaluate and contribute to open-source Rocket League mods that were created by enthusiasts of the game with a background in software development. Their current open source SDK allows for plugins to be built on top of their mod which is appealing to me because I've been a long-time RL player.
 
+Jeremy Weiss: I would like to continue open source work on TutorBase, an RCOS project I have been part of, to fix frontend and backend bugs as well as integrate a CI/CD pipeline. I will be taking a step back in RCOS this semester working on TutorBase, meaning I will have more time to dedicate towards the project through the Open Source Software course.
+
 Jeffrey Chai: I would like to work on a project related to mental well-being such as a TO DO list with lots of user functionality and optional features.
