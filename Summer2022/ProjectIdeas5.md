@@ -4,5 +4,4 @@ Samyuth Sagi: I am planning to extend a project that I started experimenting wit
 
 Trevor Brunette: I am going to work on my RCOS project from the last two semesters: CRISIS.
 
- - A.I. with TensorFlow, PyTorch, anything really
- - Full stack web development
+Kevin Xu: a.i. related stuff, full stack web development
