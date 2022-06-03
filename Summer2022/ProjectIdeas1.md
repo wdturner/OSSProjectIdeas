@@ -1,0 +1,1 @@
+Eric Nelson: I would like to work on the same project I am doing for RCOS, NeRF or Neural Radiance Fields. The project will involve creating a consumer application based on NeRF research that allows users to generate 3D renderings of scenes from a collection of 2D images or single video. 
