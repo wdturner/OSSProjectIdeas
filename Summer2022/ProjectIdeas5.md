@@ -1,4 +1,1 @@
-Interested in:
-
- - A.I. with TensorFlow, PyTorch, anything really
- - Full stack web development
+Kevin Xu: a.i. related stuff, full stack web development
